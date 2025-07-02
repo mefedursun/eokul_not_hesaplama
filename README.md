@@ -2,6 +2,9 @@
 
 Bu proje, öğrencilerin ders notlarını girerek ortalamalarını hesaplamalarına ve takdir/teşekkür belgesi durumlarını görmelerine olanak tanıyan bir web uygulamasıdır.
 
+## Canlı Demo
+Uygulamayı hemen denemek için [buraya tıklayın](https://mefedursun.github.io/eokul_not_hesaplama)!
+
 ## Özellikler
 - Ders adı, sınav notları, performans notları, proje notu ve ders saati girişi.
 - Her dersin ortalamasını, en yüksek ve en düşük notlarını görüntüleme.
@@ -29,4 +32,3 @@ Bu proje, öğrencilerin ders notlarını girerek ortalamalarını hesaplamalar�
 
 ## Geliştirici
 Bu uygulama M.Efe tarafından geliştirilmiştir.
-
